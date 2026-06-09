@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning CodeIgniter<br>⚡ Started as a kid trying to understand how programs & games are made<br>💼 Currently working on making web apps and stuff
+💼 Currently working on making web apps and stuff
 
 
 ## 🌐 Socials:
